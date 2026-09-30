@@ -268,37 +268,21 @@ enlazar a los términos de esta sección, pero no los definirá de nuevo.
 
 | Término | Definición en Proyecto Simbiosis | Fuente |
 | --- | --- | --- |
-# Glosario de Términos · Proyecto Simbiosis
-
-Este glosario recoge los términos clave definidos en el documento de Visión y Alcance del proyecto, abarcando tanto conceptos de ingeniería de requisitos como del dominio clínico y organizativo.
-
-## Términos de Ingeniería de Requisitos y Gestión de Proyectos
-
-* **Alcance:** Establece los límites de lo que se va a desarrollar en el proyecto, especificando qué objetivos, necesidades y características se incluyen y cuáles quedan excluidos. Ofrece un marco compartido entre el cliente y el equipo de desarrollo.
-
-* **Criterios de éxito:** Indicadores de calidad y métricas de validación que indican cómo se evaluará el resultado final del proyecto (por ejemplo, usuarios activos, satisfacción, contribuciones de profesionales y valoraciones). No son requisitos funcionales del sistema.
-
-* **Módulo funcional:** Bloque de alto nivel que agrupa funcionalidades relacionadas dentro del sistema (por ejemplo, la gestión de usuarios, el foro o la gestión de recetas), orientando el diseño y la planificación inicial.
-
-* **Objetivo de negocio:** Meta cuantificable y medible que la organización busca alcanzar con el desarrollo del sistema o proyecto. Define el propósito estratégico (el "por qué" y el "para qué").
-
-* **Parte interesada (Stakeholder):** Cualquier persona, grupo u organización que tiene interés, influencia o se ve afectada por un proyecto de software, pudiendo aportar necesidades, expectativas y requisitos.
-
-* **Requisitos de negocio:** Describen los objetivos estratégicos de alto nivel que la organización espera alcanzar con el sistema. Representan el valor que se busca generar y justifican el desarrollo del proyecto.
-
-* **Requisitos legales y normativos:** Obligaciones impuestas por una ley, norma o autoridad competente (como el RGPD o la Ley Orgánica de Protección de Datos) que se registran en el catálogo como requisitos no funcionales (NFR) para garantizar el cumplimiento normativo.
-
-* **Supuestos y dependencias:** Los supuestos son condiciones que se consideran ciertas en la fase inicial aunque no estén completamente verificadas; las dependencias son factores externos de los que el proyecto depende para su éxito.
-
-* **Visión o propuesta de valor:** Declaración clara y concisa que describe los beneficios únicos o el valor diferencial que un producto, servicio o sistema ofrece a sus usuarios frente a otras alternativas.
-
-## Términos del Dominio y del Proyecto Simbiosis
-
-* **EII (Enfermedad Inflamatoria Intestinal):** Condición médica crónica de los pacientes que constituyen el núcleo de usuarios principales a los que va dirigida la plataforma *Simbiosis* para ayudarles a controlar sus síntomas a través de la dieta.
-
-* **Coordinador:** Usuario o rol responsable de supervisar la actividad en la plataforma, gestionar reportes de contenido inadecuado, aplicar reglas de uso, velar por el correcto funcionamiento de la comunidad y administrar las cuentas de usuario.
-
-* **Simbiosis:** Nombre de la plataforma colaborativa en línea diseñada para pacientes con EII, cuidadores y profesionales de la salud, enfocada en compartir recetas adaptadas y de calidad clínica.
+| Requisitos de negocio | Describen los objetivos estratégicos que la organización espera alcanzar con el sistema, marcando el «por qué» y el valor o beneficios que justifican su desarrollo. | Apartado 1 |
+| Objetivo de negocio | Meta cuantificable y medible que la organización busca alcanzar con el desarrollo de un sistema o proyecto para definir su propósito y valor estratégico. | Apartado 1.1 |
+| Visión o propuesta de valor | Declaración clara y concisa que describe los beneficios únicos o el valor que el sistema Simbiosis ofrece a sus usuarios o pacientes con EII. | Apartado 1.2 |
+| Criterios de éxito | Indicadores de calidad y métricas de validación que indican cómo se evaluará el resultado del proyecto (usuarios activos, satisfacción, contribución de profesionales). | Apartado 1.3 |
+| Riesgos de negocio | Posibles problemas que podrían comprometer el éxito del proyecto (como bajo nivel de adopción o falta de participación), utilizados para planificar su gestión. | Apartado 1.4 |
+| Supuestos | Condiciones que se consideran ciertas en la fase inicial del proyecto, aunque no estén completamente verificadas. | Apartado 1.5 |
+| Dependencias | Factores externos de los que el proyecto depende para su correcto funcionamiento o desarrollo. | Apartado 1.5 |
+| Alcance | Límites del proyecto que establecen qué objetivos, necesidades y características se incluyen y cuáles quedan fuera, sirviendo de base para la planificación. | Apartado 2.1 |
+| Módulo funcional | Bloque de alto nivel que agrupa funcionalidades relacionadas del sistema para orientar el diseño, la planificación y el desarrollo (ej. Gestión de usuarios, Foro, Recetas). | Apartado 2.2 |
+| Entregables | Productos finales del proyecto (como la plataforma web funcional o la documentación) que se entregan al cliente o usuarios. | Apartado 2.3 |
+| Restricciones | Límites fijos de tiempo, presupuesto o recursos que marcan el contexto de planificación del proyecto. | Apartado 2.4 |
+| Requisitos legales y normativos (NFR) | Obligaciones impuestas por leyes o normativas (como el RGPD y la LOPDGDD) aplicables al tratamiento de datos de salud y seguridad. | Apartado 2.5 |
+| Parte interesada (Stakeholder) | Cualquier persona, grupo u organización que tiene interés, influencia o se ve afectado por el proyecto (pacientes, cuidadores, médicos, coordinadores). | Apartado 3.1 |
+| Controladores | Dimensiones prioritarias del proyecto que imponen condiciones estrictas y no negociables sobre las características o la calidad. | Apartado 3.2 |
+| Parámetro libre | Dimensión del proyecto que cuenta con flexibilidad para ajustar roles, recursos o esfuerzos según las necesidades de cada fase. | Apartado 3.2 |
 
 ## 10. Modelos de análisis
 
